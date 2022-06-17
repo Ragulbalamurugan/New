@@ -1,6 +1,11 @@
 h1{
-    color:red;
-    text-align: center;
+    color:black;
+    text-align:left;
     display: flex;
     flex-direction: column;
+}
+
+.newchange{
+    color:blue;
+    text-align: left;
 }
